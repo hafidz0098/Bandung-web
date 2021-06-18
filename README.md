@@ -3,4 +3,3 @@
 
  You can see the deployment here : https://bandung-web.vercel.app/
 
- copyright hafidz 2021
